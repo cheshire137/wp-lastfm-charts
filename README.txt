@@ -1,4 +1,4 @@
-# WordPress Last.fm Charts
+WordPress Last.fm Charts
 
 * Contributors: cheshire137
 * Tags: last.fm, charts, chart, graphs, pie, visualization, music, artists, songs, tracks
