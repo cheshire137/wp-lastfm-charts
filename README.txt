@@ -1,7 +1,7 @@
 WordPress Last.fm Charts
 
 * Contributors: cheshire137
-* Tags: last.fm, charts, chart, graphs, pie, visualization, music, artists, songs, tracks
+* Tags: last.fm, charts, chart, graphs, pie, visualization, music, artists, songs, tracks, last, fm, shortcode
 * License: GPLv3 or later
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -20,6 +20,7 @@ you will need to install and activate that plugin first.
 
 1. Upload the `wp-lastfm-charts/` folder (that is, the entire plugin folder) to your WordPress `wp-content/plugins` directory.
 2. Activate the plugin through the 'Plugins' menu in the WordPress admin dashboard.
+3. Use the `[wp_lastfm_charts_top_artists]` or `[wp_lastfm_charts_top_tracks]` shortcode in a post or page (see Usage section for details).
 
 == Usage ==
 
