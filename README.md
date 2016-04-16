@@ -51,7 +51,10 @@ defaults to 12.
 
 ## Screenshots
 
-1. Top artists from the last twelve months as a horizontal bar chart.
-2. Top artists from the last twelve months as a pie chart.
-3. Top tracks from the last twelve months as a horizontal bar chart.
-4. Top tracks from the last twelve months as a pie chart.
+![Top artists from the last twelve months as a horizontal bar chart.](https://raw.githubusercontent.com/cheshire137/wp-lastfm-charts/master/screenshot-1.png)
+
+![Top artists from the last twelve months as a pie chart.](https://raw.githubusercontent.com/cheshire137/wp-lastfm-charts/master/screenshot-2.png)
+
+![Top tracks from the last twelve months as a horizontal bar chart.](https://raw.githubusercontent.com/cheshire137/wp-lastfm-charts/master/screenshot-3.png)
+
+![Top tracks from the last twelve months as a pie chart.](https://raw.githubusercontent.com/cheshire137/wp-lastfm-charts/master/screenshot-4.png)
