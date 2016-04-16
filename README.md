@@ -1,4 +1,4 @@
-=== WordPress Last.fm Charts ===
+# WordPress Last.fm Charts 
 
 * Tags: last.fm, charts, chart, graphs, pie, visualization, music, artists, songs, tracks, last, fm, shortcode
 * License: GPLv3 or later
@@ -6,22 +6,22 @@
 
 Shortcodes to display charts of Last.fm data for a particular user.
 
-== Description ==
+## Description
 
 Using the [Last.fm API](http://www.last.fm/api), this is a WordPress plugin
 that provides a shortcode that will display charts
 of your Last.fm music-listening data. This plugin uses the [Easy Chart Builder plugin](http://wordpress.org/plugins/easy-chart-builder/) by [dyerware](http://profiles.wordpress.org/dyerware/) to create charts, so
 you will need to install and activate that plugin first.
 
-[Download the latest version of the plugin](https://github.com/moneypenny/wp-lastfm-charts/archive/master.zip) or [view the source code](https://github.com/moneypenny/wp-lastfm-charts).
+[Download the latest version of the plugin](https://github.com/cheshire137/wp-lastfm-charts/archive/master.zip) or [view the source code](https://github.com/cheshire137/wp-lastfm-charts).
 
-== Installation ==
+## Installation
 
 1. Upload the `wp-lastfm-charts/` folder (that is, the entire plugin folder) to your WordPress `wp-content/plugins` directory.
 2. Activate the plugin through the 'Plugins' menu in the WordPress admin dashboard.
 3. Use the `[wp_lastfm_charts_top_artists]` or `[wp_lastfm_charts_top_tracks]` shortcode in a post or page (see Usage section for details).
 
-== Usage ==
+## Usage
 
 In a post or page, use the `[wp_lastfm_charts_top_artists]` or `[wp_lastfm_charts_top_tracks]` shortcode. Specify the `user_name` parameter, using your Last.fm user name. Specify a time range with the `period` parameter, e.g., `12month`. Specify a chart type with `chart_type`, e.g., `horizbar` or `pie`.
 
@@ -49,7 +49,7 @@ defaults to 12.
 `period` should be one of `overall`, `7day`, `1month`, `3month`, `6month`, or
 `12month`.
 
-== Screenshots ==
+## Screenshots
 
 1. Top artists from the last twelve months as a horizontal bar chart.
 2. Top artists from the last twelve months as a pie chart.
